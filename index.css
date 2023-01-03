@@ -3,3 +3,19 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+.box {
+    width: 700px;
+    height: 70px;
+    background-color:azure;
+    position:absolute;
+    left: 25%;
+    top: 85%;
+}
+.border-radius {
+    border-radius: 50px;
+}
+ul {
+    position:absolute;
+    left: 25%;
+    top: 83%;
+}
